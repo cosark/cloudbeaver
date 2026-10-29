@@ -20,6 +20,11 @@ It is free to use and open-source (licensed under [Apache 2](https://github.com/
 - [Official Docker repository](https://hub.docker.com/r/dbeaver/cloudbeaver)
 - [Deployment instructions](https://github.com/dbeaver/cloudbeaver/wiki/CloudBeaver-Deployment)
 
+## One-Click Deploy
+
+<a href="https://repocloud.io/details/CloudBeaver/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://railway.com/deploy/cloudbeaver"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="42"></a>
+
 ## Demo server
 
 You can see a live demo of CloudBeaver server here: https://demo.cloudbeaver.io  
